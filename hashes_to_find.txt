@@ -15,6 +15,7 @@ baddcafe
 bbadbeef
 beefcace
 c00010ff
+c0ffee
 cafebabe
 cafed00d
 cafefeed
